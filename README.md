@@ -11,10 +11,15 @@ The project is designed to be simple, clear, and recruiter-friendly, making it s
 **Tools & Technologies Used**
 
 Python – Data loading, cleaning, and analysis
+
 Pandas, NumPy – Data manipulation
+
 MySQL – SQL querying and data storage
+
 MySQL Workbench – Database management
+
 Power BI – Interactive dashboards and visualization
+
 MS Excel / CSV – Raw data source
 
 
@@ -22,18 +27,22 @@ MS Excel / CSV – Raw data source
 **Dataset**
 
 Source: CSV files (sample operational/business data)
+
 Records: 10,000+ rows
 
 
 **Features include:**
 
 Customer / Transaction details
+
 Dates & time-based fields
+
 Numerical and categorical attributes
 
 
 
 **⚙️ Project Architecture**
+
 Data Source (CSV)
         ↓
 Python (EDA & Cleaning)
@@ -49,10 +58,15 @@ Insights & Reporting
 **Data Cleaning & Preprocessing**
 
 Performed using Python (Pandas):
+
 Removed missing and duplicate values
+
 Corrected data types (dates, integers, floats)
+
 Handled outliers
+
 Created derived columns for analysis
+
 Normalized and standardized data where required
 
 
@@ -60,9 +74,13 @@ Normalized and standardized data where required
 **Exploratory Data Analysis (EDA)**
 
 Summary statistics
+
 Trend analysis
+
 Category-wise distribution
+
 Time-based analysis
+
 Correlation checks
 
 
@@ -70,13 +88,19 @@ Correlation checks
 **SQL Analysis**
 
 Created relational tables
+
 Applied JOIN, GROUP BY, CASE, and subqueries
+
 Performed aggregations and KPI calculations
+
 Optimized queries for performance
 
-Example SQL Queries:
+**Example SQL Queries:**
+
 Monthly trends
+
 Customer segmentation
+
 Performance metrics
 
 
@@ -84,17 +108,24 @@ Performance metrics
 **Power BI Dashboard**
 
 The Power BI dashboard includes:
+
 KPI cards
+
 Bar charts & line charts
+
 Filters and slicers
+
 Trend and comparison views
 
 
 **Insights include:**
 
 Performance trends
+
 Customer behavior analysis
+
 Growth patterns
+
 Operational efficiency
 
 
@@ -102,8 +133,11 @@ Operational efficiency
 **Key Results & Insights**
 
 Identified top-performing categories
+
 Detected seasonal patterns
+
 Highlighted inefficiencies and improvement areas
+
 Provided data-driven recommendations
 
 
