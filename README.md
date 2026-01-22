@@ -6,7 +6,6 @@ Project Overview
 This project demonstrates a complete end-to-end data analytics workflow, covering data loading, cleaning, analysis, querying, and visualization.
 The goal is to transform raw data into meaningful insights using Python, SQL, and Power BI.
 
-The project is designed to be simple, clear, and recruiter-friendly, making it suitable for academic submissions and portfolio showcasing.
 
 **Tools & Technologies Used**
 
@@ -41,7 +40,7 @@ Numerical and categorical attributes
 
 
 
-**⚙️ Project Architecture**
+**Project Architecture**
 
 Data Source (CSV)
         ↓
@@ -94,6 +93,7 @@ Applied JOIN, GROUP BY, CASE, and subqueries
 Performed aggregations and KPI calculations
 
 Optimized queries for performance
+
 
 **Example SQL Queries:**
 
